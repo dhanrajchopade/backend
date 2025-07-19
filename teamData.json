@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Support",
+    "description": "Handles customer support issues"
+  },
+  {
+    "name": "Development",
+    "description": "Responsible for developing and maintaining products"
+  },
+  {
+    "name": "Marketing",
+    "description": "Focuses on promoting products and managing campaigns"
+  },
+  {
+    "name": "Finance",
+    "description": "Manages company finances and budgeting"
+  }
+]

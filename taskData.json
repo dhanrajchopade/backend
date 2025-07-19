@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Resolve support tickets",
+    "project": "64c34512f7a60e36df440000",
+    "team": "64c99a47b74e58d3b2130000",
+    "owners": ["64f5826ac278d930b2140000"],
+    "tags": ["Support", "Urgent"],
+    "timeToComplete": 2,
+    "status": "To Do"
+  },
+  {
+    "name": "Design new landing page",
+    "project": "64c34512f7a60e36df450000",
+    "team": "64c99a47b74e58d3b2140000",
+    "owners": ["64f5826ac278d930b2150000", "64f5826ac278d930b2160000"],
+    "tags": ["Design", "High Priority"],
+    "timeToComplete": 5,
+    "status": "In Progress"
+  },
+  {
+    "name": "Prepare quarterly report",
+    "project": "64c34512f7a60e36df460000",
+    "team": "64c99a47b74e58d3b2150000",
+    "owners": ["64f5826ac278d930b2170000"],
+    "tags": ["Finance", "Report"],
+    "timeToComplete": 7,
+    "status": "Blocked"
+  },
+  {
+    "name": "Update client database",
+    "project": "64c34512f7a60e36df470000",
+    "team": "64c99a47b74e58d3b2160000",
+    "owners": ["64f5826ac278d930b2180000", "64f5826ac278d930b2190000"],
+    "tags": ["Database", "Client", "Maintenance"],
+    "timeToComplete": 3,
+    "status": "Completed"
+  }
+]

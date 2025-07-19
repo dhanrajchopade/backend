@@ -1,0 +1,21 @@
+[
+  {    
+    "name": "Customer Support System",
+    "description": "Project for handling customer support tickets."
+  },
+  {
+    
+    "name": "Website Redesign",
+    "description": "Project for designing a new landing page."
+  },
+  {
+    
+    "name": "Quarterly Financials",
+    "description": "Project for preparing quarterly financial reports."
+  },
+  {
+     
+    "name": "Client Database Update",
+    "description": "Project for updating the client database."
+  }
+]
